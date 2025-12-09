@@ -1,4 +1,20 @@
 ## Hi there 👋
+ 
+ 
+### Skills List:
+| Skills | 
+|------------------|
+| Python |
+| SQL |
+| Power BI |
+| Azure | 
+| HTML | 
+| Excel | 
+| Microsoft Office |
+| JSON |
+
+
+
 
 <!--
 **bayliemschnieder/bayliemschnieder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
