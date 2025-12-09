@@ -3,14 +3,16 @@
 <!--
 **bayliemschnieder/bayliemschnieder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am currently a senior at the University of Iowa Tippie College of Business. I study Business Analytics and Information Systems. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills:
+- Python
+- SQL
+- Power BI
+- Azure
+- HTML
+- Excel
+- Microsoft Office
+- XML
+- JSON
+
